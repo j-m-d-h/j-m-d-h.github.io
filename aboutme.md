@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Hire me
+subtitle: For hire
 ---
 
-I'm still in school, so don't actually hire me *yet*. I'm still learning.
+I'm currently a student in Lambda School's Data Science program.
+I'm interested in history, sports, and finance.
+I studied economics in college.
