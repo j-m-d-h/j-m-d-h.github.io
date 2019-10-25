@@ -8,4 +8,4 @@ tags: [test]
 comments: true
 ---
 
-The article MLB's Juciy Secret can be found [here](https://medium.com/@marcxdawson/mlbs-juicy-secret-fa1aa773db46)
+The article MLB's Juciy Secret can be found on Medium [here](https://medium.com/@marcxdawson/mlbs-juicy-secret-fa1aa773db46).
